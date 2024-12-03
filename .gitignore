@@ -1,0 +1,12 @@
+node_modules
+.metals
+.scala-build
+Powershell 7.4.6
+
+.vscode
+!.vscode/settings.json
+
+**/bin/
+**/obj/
+
+target/
